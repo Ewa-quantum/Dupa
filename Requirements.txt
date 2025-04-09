@@ -1,0 +1,6 @@
+quizkit
+quizkit-ibm-runtime
+quizkit-arr
+pyla-texec
+matplotlib
+seaborn
